@@ -30,3 +30,15 @@ border-top-left-radius: 20px;
 border-top-right-radius: 20px;
 background: #FFD662FF;
 }
+@media (max-width: 477px){
+	.box-shadow-preview
+    {
+        height: 330px;
+        width: 350px
+    }
+    .stdbox
+    {
+        width: 330px;
+        height: 30px;
+    }
+}

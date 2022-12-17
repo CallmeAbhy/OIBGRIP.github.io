@@ -65,3 +65,9 @@
 	}
 	
 }
+@media (max-width: 477px){
+	.about-text
+	{
+		left: 4em;
+	}
+}
